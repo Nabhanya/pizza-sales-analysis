@@ -20,17 +20,16 @@ This project focuses on analyzing pizza sales data to derive key insights and tr
 
 ## Key Insights
 - **Sales Trends:**  
-   The highest number of orders was observed on *[specific day of the week]*, and *[specific month]* generated the most revenue.
+   The highest number of orders was observed on *Friday and Saturday*, and *January and July* generated the most revenue.
 
 - **Top Performers:**  
-   The *[specific pizza name]* generated the most revenue, while *[specific pizza category]* was the best-selling group by quantity.
+   The *Thai Chicken Pizza generated* the most revenue, while *The Classic Deluxe Pizza* was the best-selling group by quantity.
 
 - **Customer Preferences:**  
-   Customers showed a strong preference for *[specific pizza size/category]*, with a high percentage of sales coming from these groups.
+   Customers showed a strong preference for *The Classic Deluxe Pizza*, with a high percentage of sales coming from these groups.
 
 - **Improvement Areas:**  
    Certain pizza varieties had lower sales, indicating an opportunity to optimize or promote them better.
 
 ## Future Work
-- Further analysis could focus on customer demographics, seasonality, and promotion impacts.
 - Use of machine learning models to predict future sales trends based on historical data.
