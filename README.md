@@ -1,5 +1,5 @@
 # Pizza Sales Analysis Project
-
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/786c44d3-1fce-443c-a820-e8911c37ec11/a1b1c3c1e032864ea7ec?experience=power-bi
 ## Problem Statement
 This project focuses on analyzing pizza sales data to derive key insights and trends that can help improve business strategies. The goal is to evaluate sales performance, identify best-selling pizzas, and understand customer preferences based on pizza categories, sizes, and other relevant factors.
 
